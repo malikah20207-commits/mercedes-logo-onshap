@@ -28,6 +28,11 @@ This project was completed as part of my Mechanical Engineering learning track. 
 - 3D Modeling
 - CAD Fundamentals
 
+## Preview
+
+![Mercedes Logo](mercedes-logo.png)
+
+
 ## Onshape Project
 https://cad.onshape.com/documents/7f3c46d7d3d7759d565d587f/w/366a8057e8fc54b03b2f3bfb/e/736ab1ad346c588773e11ac7?renderMode=0&uiState=6a5d2d714db7cf1288f630fa
 ## Auther
